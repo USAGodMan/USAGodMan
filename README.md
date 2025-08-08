@@ -125,9 +125,10 @@ The best is truly yet to come, and together, we will achieve it.
 ### 💬 **Join the Conversation** / 加入讨论
 
 <p align="center">
-  <!-- GitHub Readme YouTube Card: Replace the video ID with one you want to feature -->
+  <!-- GitHub Readme YouTube Card: Featuring the specified video -->
   <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">
-    <img src="https://yt-cards.demolab.com/card?id=dQw4w9WgXcQ&lang=en&theme=radical" alt="Latest Video"/>
+    <!-- 【核心修正】将 id 参数的值替换为您的视频 ID -->
+    <img src="https://yt-cards.demolab.com/card?id=Ff1PFyZmx9I&lang=en&theme=radical" alt="Featured Video"/>
   </a>
 </p>
 
