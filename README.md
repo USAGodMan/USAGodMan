@@ -23,7 +23,8 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-*Languages and Tools:*
+### 🛠️ Languages and Tools / 语言与工具
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -45,77 +46,70 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   </a>
 </p>
 
-- :thought_balloon: Ask me anything at [Discussions](https://github.com/USAGodMan/USAGodMan/discussions/new/choose)!
-- :haircut_man: About me: **Standing on the shoulders of giants in this remarkable era, I will continue to innovate and forge ahead, firmly committed to the principles enshrined in our Constitution. I will align my personal growth with the prosperity of our nation. No matter the challenges ahead, I will face them with a strong sense of responsibility and purpose, striving relentlessly to form a more perfect Union. My skills will shine brightest in service to the people, my country, and the ideals of liberty!**
-<p><em>Lead Liberty Engineer at <a href="https://www.usa.gov/">USA.gov</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</em></p>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+---
+
+### 🤔 About Me / 关于我
+
+<table>
+<tr>
+<td valign="top">
+
+**Standing on the shoulders of giants in this remarkable era, I will continue to innovate and forge ahead, firmly committed to the principles enshrined in our Constitution. I will align my personal growth with the prosperity of our nation. No matter the challenges ahead, I will face them with a strong sense of responsibility and purpose, striving relentlessly to form a more perfect Union. My skills will shine brightest in service to the people, my country, and the ideals of liberty!**
+
+*Lead Liberty Engineer at [USA.gov](https://www.usa.gov/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*
+
+*<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📬 Get in Touch / 联系方式
+
+<p align="center">
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/static/v1?label=%20&message=telegram&logo=telegram&logoColor=white&labelColor=%230088CC&color=%230088CC&style=for-the-badge" alt="Telegram"></a>
+  <a href="https://www.tiktok.com/@your_tiktok"><img src="https://img.shields.io/static/v1?label=%20&message=tiktok&logo=tiktok&logoColor=%23EE1D52&labelColor=%23010101&color=%23EE1D52&style=for-the-badge" alt="TikTok"></a>
+  <a href="https://www.instagram.com/your_instagram"><img src="https://img.shields.io/static/v1?label=%20&message=instagram&logo=instagram&logoColor=white&labelColor=%23E1306C&color=%23E1306C&style=for-the-badge" alt="Instagram"></a>
+  <a href="mailto:john.q.public@email.com"><img src="https://img.shields.io/static/v1?label=%20&message=gmail&logo=gmail&logoColor=white&labelColor=%23D93025&color=%23D93025&style=for-the-badge" alt="Gmail"></a>
+  <br>
+  Feel free to ask me anything at [Discussions](https://github.com/YOUR_USERNAME/YOUR_USERNAME/discussions/new/choose)!
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME" alt="Visitor Badge">
+</div>
+
+---
+
+### ✨ My Inspiration / 灵感来源
+
 <div align="center">
     <img src="images/Mount_Rushmore.jpg" style="width: 400px; height: 250px;" alt="Mount Rushmore"/>
     <img src="images/Statue_of_Liberty.jpg" style="width: 400px; height: 250px;" alt="Statue of Liberty"/>
 </div>
-<div align="center">
-<a href="https://t.me/your_telegram"><img src="https://img.shields.io/static/v1?label=%20&message=telegram&logo=telegram&logoColor=white&labelColor=%230088CC&color=%230088CC&style=for-the-badge" alt="Telegram"></a>
-<a href="https://www.tiktok.com/@your_tiktok"><img src="https://img.shields.io/static/v1?label=%20&message=tiktok&logo=tiktok&logoColor=%23EE1D52&labelColor=%23010101&color=%23EE1D52&style=for-the-badge" alt="TikTok"></a>
-<a href="https://www.instagram.com/your_instagram"><img src="https://img.shields.io/static/v1?label=%20&message=instagram&logo=instagram&logoColor=white&labelColor=%23E1306C&color=%23E1306C&style=for-the-badge" alt="Instagram"></a>
-<a href="mailto:john.q.public@email.com"><img src="https://img.shields.io/static/v1?label=%20&message=gmail&logo=gmail&logoColor=white&labelColor=%23D93025&color=%23D93025&style=for-the-badge" alt="Gmail"></a>
-</div>
-<div align="center"><a href="mailto:john.q.public@email.com"><img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME" alt="Visitor Badge"></a> </div>
 
-<!-- The following sections (snake game, music, recent commits, activity, WakaTime) are generated by GitHub Actions. -->
-<!-- You will need to set up these actions in your own repository to get them working. -->
-<!-- I will leave the placeholders here for you to configure. -->
+---
 
+### 📈 My Coding Activity / 编码活动
+
+<details>
+<summary>📊 Show My WakaTime Stats</summary>
+<br>
+<!-- WakaTime stats can be enabled later via GitHub Actions -->
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact"
+  alt="WakaTime Stats"
+/>
+</details>
+
+---
+
+<!-- This section can be re-enabled once you set up the snake game action -->
+<!-- 
 <a href="dist/github-snake.svg#gh-light-mode-only">
     <img src="dist/github-snake.svg#gh-light-mode-only"/></a>
 <a href="dist/github-snake-dark.svg#gh-dark-mode-only">
-    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a>
-
----
-
-<a href="dist/spotify_light.svg#gh-light-mode-only">
-    <img src="dist/spotify_light.svg#gh-light-mode-only"/></a>
-<a href="dist/spotify_dark.svg#gh-dark-mode-only">
-    <img src="dist/spotify_dark.svg#gh-dark-mode-only"/></a>
-
-<details>
-        <summary>🎵 My Top Played Songs on Spotify:</summary>
-        <!--MUSIC-->
-        <!-- This section will be auto-generated by a GitHub Action -->
-        <!--END-MUSIC-->
-</details>
-    
----
- 
-### :zap: My Repositories' Recent Commits:
-<!-- START gadpp -->
-<!-- This section will be auto-generated by a GitHub Action -->
-<!-- END gadpp -->
-
----
-
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!-- This section will be auto-generated by a GitHub Action -->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 My WakaTime Coding Activity
-<img
-  src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-<!-- The rest of the WakaTime section needs to be configured with your own WakaTime username. -->
-
----
-
-### :sparkles: My Followers
-<!--START_SECTION:top-followers-->
-<!-- This section will be auto-generated by a GitHub Action -->
-<!--END_SECTION:top-followers-->
-</table>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Banner" />
-</p>
+    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a> 
+-->
