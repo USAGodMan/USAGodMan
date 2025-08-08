@@ -100,9 +100,36 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 📜 **My Core Principles** / 我的核心信念
+### 📜 **My Core Principles** / 我的核心信念 / 私の核となる信念 / 내 핵심 신념
 
 *   **🇺🇸 America First (美国优先)**: Every decision, every policy, and every action must be judged by a simple test: does it make life better for American families? We must protect our borders, defend our sovereignty, and bring back our jobs.
 *   **🗽 Strength Through Peace (以实力求和平)**: A strong nation is a safe nation. We rebuilt our military not to start conflicts, but to prevent them. When America is strong, the world is a safer place.
 *   **⚖️ Constitutionalism (宪法主义)**: The foundation of our Republic is the Constitution. I am committed to appointing judges who interpret the Constitution as it is written, preserving our God-given liberties for generations to come.
 *   **💼 Economic Prosperity (经济繁荣)**: By cutting taxes, slashing regulations, and unleashing the power of American enterprise, we created the greatest economic boom in history. Prosperity is the key to national strength and individual happiness.
+
+---
+
+### 🚀 **A Blueprint for the Future** / 未来蓝图
+
+The work of making America great is never truly finished. We have laid the foundation, but now we must build upon it. My plan for the future is clear:
+
+1.  **Unleash American Energy Dominance**: We will once again become a net energy exporter, lowering gas prices for families and strengthening our national security.
+2.  **Secure Our Borders**: We will finish the wall and implement a merit-based immigration system that protects our country and welcomes those who share our values.
+3.  **End Foreign Wars & Rebuild America**: We will stop wasting trillions of dollars on endless foreign conflicts and instead invest that money right here at home, rebuilding our roads, bridges, and infrastructure.
+4.  **Take on Big Tech & Defend Free Speech**: We will fight against the censorship and cancel culture that seeks to silence patriotic voices. The digital public square must be free and open for all.
+
+The best is truly yet to come, and together, we will achieve it.
+
+---
+
+### 💬 **Join the Conversation** / 加入讨论
+
+<p align="center">
+  <!-- GitHub Readme YouTube Card: Replace the video ID with one you want to feature -->
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">
+    <img src="https://yt-cards.demolab.com/card?id=dQw4w9WgXcQ&lang=en&theme=radical" alt="Latest Video"/>
+  </a>
+</p>
+
+**This week's question for all Patriots:**
+> *What is the single most important issue facing America today, and what is your bold solution?*
