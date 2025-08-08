@@ -2,9 +2,11 @@
   
   <!-- Patriotic Symbols with Spacing -->
   <p>
-    <img src="images/american_flag.png" style="width: 180px; height: 120px; margin: 0 30px;" alt="American Flag" />
-    <img src="images/great_seal.png" style="width: 135px; height: 135px; margin: 0 10px;" alt="Great Seal of the United States" />
-    <img src="images/bald_eagle.png" style="width: 180px; height: 120px; margin: 0 10px;" alt="Bald Eagle" />
+    <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
+    
+    <img src="images/great_seal.png" style="width: 135px; height: 135px; vertical-align: middle; margin: 0 40px;" alt="Great Seal of the United States" />
+    
+    <img src="images/bald_eagle.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="Bald Eagle" />
   </p>
   
   <!-- Typing SVG Slogan -->
