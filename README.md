@@ -29,8 +29,6 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 ### 🛠️ Languages and Tools / 语言与工具
 
 <p align="left">
