@@ -70,6 +70,7 @@ The challenges ahead are great, but the spirit of the American people is greater
 
 <div align="center">
     <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
+    <img src="images/Swearing_in_ceremony.jpg" style="width: 400px; height: 250px;" alt="Swearing under the constituion"/>
     <img src="images/Fighting.jpg" style="width: 400px; height: 250px;" alt="Fighting during shooting incident"/>
     <img src="images/Meets_with_President_Joe_Biden.jpg" style="width: 400px; height: 250px;" alt="Meeting with Joe Biden"/>
 </div>
