@@ -101,8 +101,8 @@ This is not just a political movement; it is a testament to the enduring power o
 ---
 
 <!-- GitHub Activity Snake -->
-<p align="center">
-  <a href="https://github.com/platschi/platschi">
-    <img src="https://raw.githubusercontent.com/USAGodMan/USAGodMan/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </a>
-</p>
+<!--贪吃蛇-->
+<a href="dist/github-snake.svg#gh-light-mode-only">
+    <img src="dist/github-snake.svg#gh-light-mode-only"/></a>
+<a href="dist/github-snake-dark.svg#gh-dark-mode-only">
+    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a>
