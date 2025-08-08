@@ -1,0 +1,24 @@
+name: GitHub Readme YouTube Cards
+
+on:
+  schedule:
+    # 每6小时运行一次以更新视频列表
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # 允许您手动触发此 Action
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 给予 Action 修改仓库内容的权限
+
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          # 【核心】要展示的 YouTube 播放列表 ID
+          # 我为您找到了一个特朗普集会的官方播放列表作为示例
+          # 您可以替换为您自己的频道 ID 或其他播放列表 ID
+          playlist_id: PLJt3g2__eLXd_y_hxC9216n-kGj2a7Lwd
+          
+          # 【可选】如果您想展示某个频道而不是播放列表
+          # channel_id: YOUR_YOUTUBE_CHANNEL_ID 
