@@ -86,5 +86,5 @@ The challenges ahead are great, but the spirit of the American people is greater
     <img src="images/Meeting_with_French_President_Emmanuel_Macron.jpg" style="width: 400px; height: 250px;" alt="Meeting with French President Emmanuel Macron"/>
     <img src="images/Ishiba_with_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Ishiba"/>
     <img src="images/Meeting_with_UNGA.jpg" style="width: 400px; height: 250px;" alt="Meeting with UNGA"/>
-    <img src="images/Meets_with_the_Sheikh_Tamim_bin_Hamad_Al_Thani.jpg" style="width: 400px; height: 250px;" alt="Meeting with Sheikh Tamim bin Hamad Al Thani"/>
+    <img src="images/Meeting_with_Taoiseach_Micheál_Martin.jpg" style="width: 400px; height: 250px;" alt="Meeting with Taoiseach Martin"/>
 </div>
