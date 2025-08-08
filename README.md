@@ -81,5 +81,5 @@ The challenges ahead are great, but the spirit of the American people is greater
 
 <div align="center">
     <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
-    <img src="images/Iwo_Jima_flag_raising.jpg" style="width: 400px; height: 250px;" alt="Raising the Flag on Iwo Jima"/>
+    <img src="images/Fighting.jpg" style="width: 400px; height: 250px;" alt="Raising the Flag on Iwo Jima"/>
 </div>
