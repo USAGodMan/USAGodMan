@@ -33,20 +33,33 @@ This is not just a political movement; it is a testament to the enduring power o
 
 *These stats reflect my unwavering commitment and tireless work ethic for our nation.*
 
-<table align="center">
-  <tr>
-    <td align="center">
+<table align="center" cellspacing="0" cellpadding="0">
+  <!-- 第一行: 总体统计 & 连续提交 -->
+  <tr valign="top">
+    <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=B22234&text_color=002868" alt="USAGodMan's GitHub Stats" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
         <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
       </a>
     </td>
   </tr>
 </table>
+
+<!-- 第二部分: GitHub 奖杯 -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=USAGodMan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="USAGodMan's Trophies" />
+  </a>
+</p>
+
+<!-- 第三部分: 个人主页访客计数器 -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/USAGodMan/count.svg" alt="Visitors Count" />
+</p>
 
 ---
 
