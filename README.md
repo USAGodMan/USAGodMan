@@ -28,7 +28,7 @@
 <!-- GitHub Stats Cards -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="USAGodMan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_buster=1" alt="USAGodMan's GitHub Stats" />
   </a>
 </p>
 
