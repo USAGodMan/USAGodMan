@@ -83,5 +83,6 @@ The challenges ahead are great, but the spirit of the American people is greater
     <img src="images/Meeting_with_Prime_Minister_Giorgia_Meloni.jpg" style="width: 400px; height: 250px;" alt="Meeting with Giorgia Meloni"/>
     <img src="images/Meets_with_Kim_and_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Kim and Trump"/>
     <img src="images/Donald_Trump_and_Xi_Jinping_meets.jpg" style="width: 400px; height: 250px;" alt="Meeting with Xi Jinping"/>
-
+    <img src="images/Meeting_with_French_President_Emmanuel_Macron.jpg" style="width: 400px; height: 250px;" alt="Meeting with French President Emmanuel Macron"/>
+    <img src="images/Ishiba_with_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Ishiba"/>
 </div>
