@@ -45,18 +45,6 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 🛠️ **The Arsenal of a Builder** / 一个建设者的武器库
-
-*To build a great nation, you need the best tools.*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/American_Ingenuity-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMjg2OCIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMyMS41MiAyIDEyIDJabTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4WiIvPjxwYXRoIGZpbGw9IiNCMjIyMzQiIGQ9Ik0xMS41IDEyLjVIMjl2LTFoLTN2LTNoMXYtMWgtNXYxaDF2M2gtM3YxaDJ2M2gtMXYxaDV2LTFoLTF2LTNoMloiLz48L3N2Zz4=" alt="American Ingenuity"/>
-  <img src="https://img.shields.io/badge/Hard_Work-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE5LjUgMTMuNUgxOGwtMy00LjV2LTZoLTFWNEg4djJoMWwtMyA0LjVIMi41Yy0uODMgMC0xLjUuNjctMS41IDEuNVYxNWMwIC44My42NyAxLjUgMS41IDEuNWgxN2MuODMgMCAxLjUtLjY3IDEuNS0xLjV2LTEuNWMwLS44My0uNjctMS41LTEuNS0xLjVabS0xMyAxLjVIM2wtMS41LTRoMS41bDIuMjUgM2gyLjI1bDIuMjUtM2gxLjVoMS41bC0xLjUgNGgtMy41WiIvPjwvc3ZnPg==" alt="Hard Work"/>
-  <img src="https://img.shields.io/badge/Patriotism-002868?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDFDOS43OSAxIDggMi43OSA4IDVjMCAyLjIxIDEuNzkgNCA0IDRzNC0xLjc5IDQtNCAwLTIuMjEtMi4yMS00SDEyWk02IDEwLjI2VjIxaDZ2LTguNTRDOS4xNiAxMS40MiA2IDEwLjI2IDYgMTAuMjZabTguMjQgMGwtLjg0LjdjLS4xOS4xNi0uNDQuMjUtLjcgLjI1bC0xLjQtLjV2OC4yaDZWMTAuOTZsLS4zNi0uM0w١Mi4yNCAxMC4yNloiLz48L3N2Zz4=" alt="Patriotism"/>
-</p>
-
----
-
 ### 📞 **Join the Movement** / 加入这场运动
 
 <p align="center">
