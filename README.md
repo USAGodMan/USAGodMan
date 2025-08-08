@@ -52,7 +52,7 @@ This is not just a political movement; it is a testament to the enduring power o
     </td>
     <td align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
+        <img title="Always Fighting!" alt="USAGodMan's GitHub Streak" src="https://streak-stats.demolab.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
       </a>
     </td>
   </tr>
