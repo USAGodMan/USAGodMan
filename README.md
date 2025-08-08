@@ -10,7 +10,7 @@
 
 ---
 
-### 🏛️ **A Message to the American People** / 致美国人民的信
+### 🏛️ **A Message to the American People** / 致美国人民的信 / アメリカ国民への手紙 / 치미국 인민적 일봉신
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 📊 **My Record: By the Numbers** / 我的政绩：用数字说话
+### 📊 **My Record: By the Numbers** / 我的政绩：用数字说话 / 私の業績：数字が物語る / 내 업적: 숫자가 말해주는 것
 
 *These stats reflect my unwavering commitment and tireless work ethic for our nation.*
 
@@ -51,7 +51,7 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 📞 **Join the Movement** / 加入这场运动
+### 📞 **Join the Movement** / 加入这场运动 / 運動に参加しよう / 운동에 참여하세요
 
 <p align="center">
   <a href="https://truthsocial.com/@realDonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=Truth+Social&logo=data:image/svg+xml;base64,...&logoColor=white&labelColor=%235A1919&color=%235A1919&style=for-the-badge" alt="Truth Social"></a>
@@ -65,7 +65,7 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 🇺🇸 **Moments That Made America Great** / 让美国再次伟大的时刻
+### 🇺🇸 **Moments That Made America Great** / 让美国再次伟大的时刻 / アメリカを再び偉大に / 미국을 다시 위대하게 만들자
 
 <details>
 <summary><b>Click to Expand Presidential Gallery / 点击展开总统图库</b></summary>
