@@ -124,7 +124,7 @@ The best is truly yet to come, and together, we will achieve it.
 
 ### 💬 **Join the Conversation** / 加入讨论
 
-<img src="images/Trump_Day_1_Executive_Order_Signing.jpg" style="width: 800px;" alt="Trump_Day_1_Executive_Order_Signing"/>
+<img src="images/Trump_Day_1_Executive_Order_Signing.jpg" style="width: 1012px;" alt="Trump_Day_1_Executive_Order_Signing"/>
 
 **This week's question for all Patriots:**
 > *What is the single most important issue facing America today, and what is your bold solution?*
