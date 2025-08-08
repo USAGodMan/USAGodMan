@@ -68,7 +68,7 @@ This is not just a political movement; it is a testament to the enduring power o
 ### 🇺🇸 **Moments That Made America Great** / 让美国再次伟大的时刻 / アメリカを再び偉大に / 미국을 다시 위대하게 만들자
 
 <details>
-<summary><b>Click to Expand Presidential Gallery / 点击展开总统图库</b></summary>
+<summary><b>Click to Expand Presidential Gallery / 点击展开总统图库 / クリックすると大統領ギャラリーが拡大されます / 대통령 갤러리를 확장하려면 클릭하세요</b></summary>
 <br>
 <div align="center">
     <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
