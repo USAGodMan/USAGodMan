@@ -77,10 +77,22 @@ This is not just a political movement; it is a testament to the enduring power o
 <summary><b>Click to Expand Presidential Gallery / 点击展开总统图库</b></summary>
 <br>
 <div align="center">
-    <!-- 您所有的图片都可以放在这里 -->
-    <img src="images/Swearing_in_ceremony.jpg" style="width: 400px; height: 250px; margin: 5px;" alt="Swearing under the constitution"/>
-    <img src="images/Meets_with_Kim_and_Trump.jpg" style="width: 400px; height: 250px; margin: 5px;" alt="Meeting with Kim and Trump"/>
-    <img src="images/Donald_Trump_and_Xi_Jinping_meets.jpg" style="width: 400px; height: 250px; margin: 5px;" alt="Meeting with Xi Jinping"/>
-    <!-- ... etc ... -->
+    <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
+    <img src="images/Swearing_in_ceremony.jpg" style="width: 400px; height: 250px;" alt="Swearing under the constituion"/>
+    <img src="images/Meets_with_President_Joe_Biden.jpg" style="width: 400px; height: 250px;" alt="Meeting with Joe Biden"/>
+    <img src="images/Meets_with_Polish_President_Andrzej_Duda.jpg" style="width: 400px; height: 250px;" alt="Meeting with Andrzej_Duda"/>
+    <img src="images/Meets_with_the_President_of_Turkey.jpg" style="width: 400px; height: 250px;" alt="Meeting with the President of Turkey"/>
+    <img src="images/Meets_with_the_Sheikh_Tamim_bin_Hamad_Al_Thani.jpg" style="width: 400px; height: 250px;" alt="Meeting with Sheikh Tamim bin Hamad Al Thani"/>
+    <img src="images/Meets_with_Argentina’s_President_Javier_Milei.jpg" style="width: 400px; height: 250px;" alt="Meeting with Javier Milei"/>
+    <img src="images/Meeting_with_King_Abdullah_II.jpg" style="width: 400px; height: 250px;" alt="Meeting with King Abdullah II"/>
+    <img src="images/Meeting_with_Modi.jpg" style="width: 400px; height: 250px;" alt="Meeting with Modi"/>
+    <img src="images/Meeting_with_Prime_Minister_Gahr_Store.jpg" style="width: 400px; height: 250px;" alt="Meeting with Gahr Store"/>
+    <img src="images/Meeting_with_Prime_Minister_Giorgia_Meloni.jpg" style="width: 400px; height: 250px;" alt="Meeting with Giorgia Meloni"/>
+    <img src="images/Meets_with_Kim_and_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Kim and Trump"/>
+    <img src="images/Donald_Trump_and_Xi_Jinping_meets.jpg" style="width: 400px; height: 250px;" alt="Meeting with Xi Jinping"/>
+    <img src="images/Meeting_with_French_President_Emmanuel_Macron.jpg" style="width: 400px; height: 250px;" alt="Meeting with French President Emmanuel Macron"/>
+    <img src="images/Ishiba_with_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Ishiba"/>
+    <img src="images/Meeting_with_UNGA.jpg" style="width: 400px; height: 250px;" alt="Meeting with UNGA"/>
+    <img src="images/Meeting_with_Taoiseach_Micheál_Martin.jpg" style="width: 400px; height: 250px;" alt="Meeting with Taoiseach Martin"/>
 </div>
 </details>
