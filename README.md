@@ -97,3 +97,12 @@ This is not just a political movement; it is a testament to the enduring power o
     <img src="images/Women's_March_on_Washington.jpg" style="width: 400px; height: 250px;" alt="Women's March on Washington"/>
 </div>
 </details>
+
+---
+
+<!-- GitHub Activity Snake -->
+<p align="center">
+  <a href="https://github.com/platschi/platschi">
+    <img src="https://raw.githubusercontent.com/USAGodMan/USAGodMan/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  </a>
+</p>
