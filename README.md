@@ -125,10 +125,9 @@ The best is truly yet to come, and together, we will achieve it.
 ### 💬 **Join the Conversation** / 加入讨论
 
 <p align="center">
-  <!-- GitHub Readme YouTube Card: Switched to a more reliable service -->
-  <a href="https://github.com/Jonah-Aragon/github-readme-youtube-cards">
-    <!-- 【核心修正】更换了服务域名 -->
-    <img src="https://github-readme-youtube-cards.vercel.app/api?id=Ff1PFyZmx9I&layout=compact&theme=radical" alt="Featured Video"/>
+  <!-- GitHub Readme YouTube Card: Featuring the specified video -->
+  <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">
+    <img src="https://yt-cards.demolab.com/card?id=Ff1PFyZmx9I&lang=en&theme=radical" alt="Featured Video"/>
   </a>
 </p>
 
