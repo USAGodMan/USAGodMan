@@ -11,15 +11,15 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is **Donald John Trump**. I am a passionate and dedicated Patriot.
 
 <!-- GitHub Stats will need to be configured for the new user -->
-<a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/overview.svg#gh-light-mode-only">
+<a href="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-light-mode-only">
 <img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-light-mode-only" /></a>
-<a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-light-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-light-mode-only" /></a>
+<a href="https://raw.githubusercontent.com/USAGodMan/github-stats/master/generated/languages.svg#gh-light-mode-only">
+<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-light-mode-only" /></a>
 
-<a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
-<a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+<a href="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
+<a href="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
