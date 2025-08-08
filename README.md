@@ -55,13 +55,10 @@ The challenges ahead are great, but the spirit of the American people is greater
 ### 📞 Connect with Me
 
 <p align="center">
-  <!-- 第一行: 核心社交媒体 -->
   <a href="https://truthsocial.com/@realDonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=Truth+Social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE5LjYgMi40SDQuNEEyLjQgMi40IDAgMCAwIDIgNC44djE0LjRhMi40IDIuNCAwIDAgMCAyLjQgMi40aDE1LjJhMi40IDIuNCAwIDAgMCAyLjQtMi40VjQuOGEyLjQgMi40IDAgMCAwLTIuNC0yLjRabS0zLjYgMTMuMmgtMS44di00LjZoLTEuMnY0LjZoLTEuOHYtNy4yaDEuOHYxLjhoMS4ydi0xLjhoMS44djcuMlptLTYuNiAwSDguNnYtMS4yaC45di0yLjdoLS45di0xLjJoMS41Yy45IDAgMS41LjYgMS41IDEuN3YxLjVjMCAxLjItLjYgMS43LTEuNSAxLjdabS0xLjUtMi47aC45YzAgLS42LS4zLS45LS43LS45aC0uMnYxLjhaIi8+PC9zdmc+&logoColor=white&labelColor=%235A1919&color=%235A1919&style=for-the-badge" alt="Truth Social"></a>
   <a href="https://twitter.com/realDonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=X%20(Twitter)&logo=x&logoColor=white&labelColor=%23000000&color=%23000000&style=for-the-badge" alt="X (Twitter)"></a>
   <a href="https://www.facebook.com/DonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=Facebook&logo=facebook&logoColor=white&labelColor=%231877F2&color=%231877F2&style=for-the-badge" alt="Facebook"></a>
   <a href="https://www.instagram.com/realdonaldtrump"><img src="https://img.shields.io/static/v1?label=%20&message=Instagram&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F&style=for-the-badge" alt="Instagram"></a>
-  
-  <!-- 第二行: 网站和其他 -->
   <br>
   <a href="https://www.donaldjtrump.com/"><img src="https://img.shields.io/static/v1?label=%20&message=Website&logo=googlechrome&logoColor=white&labelColor=%23002868&color=%23002868&style=for-the-badge" alt="Official Website"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=USAGodMan" alt="Visitor Badge">
@@ -73,5 +70,6 @@ The challenges ahead are great, but the spirit of the American people is greater
 
 <div align="center">
     <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
-    <img src="images/Fighting.jpg" style="width: 400px; height: 250px;" alt="Raising the Flag on Iwo Jima"/>
+    <img src="images/Fighting.jpg" style="width: 400px; height: 250px;" alt="Fighting during shooting incident"/>
+    <img src="images/Meets_with_President_Joe_Biden.jpg" style="width: 400px; height: 250px;" alt="Meeting with Joe Biden"/>
 </div>
