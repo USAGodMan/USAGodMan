@@ -33,15 +33,20 @@ This is not just a political movement; it is a testament to the enduring power o
 
 *These stats reflect my unwavering commitment and tireless work ethic for our nation.*
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=B22234&text_color=002868" alt="USAGodMan's GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=B22234&text_color=002868" alt="USAGodMan's GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+        <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
