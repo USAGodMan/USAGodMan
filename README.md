@@ -34,7 +34,7 @@
 
 ---
 
-### 🏛️ My American Journey / 我的美国之旅
+### 🏛️ My American Journey
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ The challenges ahead are great, but the spirit of the American people is greater
 
 ---
 
-### 📞 Connect with Me / 与我联系
+### 📞 Connect with Me
 
 <p align="center">
   <a href="https://truthsocial.com/@realDonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=Truth+Social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE5LjYgMi40SDQuNEEyLjQgMi40IDAgMCAwIDIgNC44djE0LjRhMi40IDIuNCAwIDAgMCAyLjQgMi40aDE1LjJhMi40IDIuNCAwIDAgMCAyLjQtMi40VjQuOGEyLjQgMi40IDAgMCAwLTIuNC0yLjRabS0zLjYgMTMuMmgtMS44di00LjZoLTEuMnY0LjZoLTEuOHYtNy4yaDEuOHYxLjhoMS4ydi0xLjhoMS44djcuMlptLTYuNiAwSDguNnYtMS4yaC45di0yLjdoLS45di0xLjJoMS41Yy45IDAgMS41LjYgMS41IDEuN3YxLjVjMCAxLjItLjYgMS43LTEuNSAxLjdabS0xLjUtMi43aC45YzAgLS42LS4zLS45LS43LS45aC0uMnYxLjhaIi8+PC9zdmc+&logoColor=white&labelColor=%235A1919&color=%235A1919&style=for-the-badge" alt="Truth Social"></a>
@@ -77,7 +77,7 @@ The challenges ahead are great, but the spirit of the American people is greater
 
 ---
 
-### 🇺🇸 Defining Moments in American History / 定义美国的历史时刻
+### 🇺🇸 Defining Moments in American History
 
 <div align="center">
     <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
