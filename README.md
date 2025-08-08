@@ -100,9 +100,9 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-<!-- GitHub Activity Snake -->
-<!--贪吃蛇-->
-<a href="dist/github-snake.svg#gh-light-mode-only">
-    <img src="dist/github-snake.svg#gh-light-mode-only"/></a>
-<a href="dist/github-snake-dark.svg#gh-dark-mode-only">
-    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a>
+### 📜 **My Core Principles** / 我的核心信念
+
+*   **🇺🇸 America First (美国优先)**: Every decision, every policy, and every action must be judged by a simple test: does it make life better for American families? We must protect our borders, defend our sovereignty, and bring back our jobs.
+*   **🗽 Strength Through Peace (以实力求和平)**: A strong nation is a safe nation. We rebuilt our military not to start conflicts, but to prevent them. When America is strong, the world is a safer place.
+*   **⚖️ Constitutionalism (宪法主义)**: The foundation of our Republic is the Constitution. I am committed to appointing judges who interpret the Constitution as it is written, preserving our God-given liberties for generations to come.
+*   **💼 Economic Prosperity (经济繁荣)**: By cutting taxes, slashing regulations, and unleashing the power of American enterprise, we created the greatest economic boom in history. Prosperity is the key to national strength and individual happiness.
