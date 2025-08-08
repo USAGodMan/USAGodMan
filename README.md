@@ -1,25 +1,36 @@
 <div align="center">
-    <!-- Image placeholders for US patriotic symbols -->
-    <img src="images/american_flag.png" style="width: 180px; height: 120px;" alt="American Flag" />
-    <img src="images/great_seal.png" style="width: 135px; height: 135px;" alt="Great Seal of the United States" />
-    <img src="images/bald_eagle.png" style="width: 180px; height: 120px;" alt="Bald Eagle" /><br>
-    <!-- Typing SVG with a patriotic American slogan -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002868&width=700&height=35&lines=%F0%9F%87%BA%F0%9F%87%B8In+God+We+Trust.+E+Pluribus+Unum!%F0%9F%87%BA%F0%9F%87%B8"/>
+  
+  <!-- Patriotic Symbols with Spacing -->
+  <p>
+    <img src="images/american_flag.png" style="width: 180px; height: 120px; margin: 0 10px;" alt="American Flag" />
+    <img src="images/great_seal.png" style="width: 135px; height: 135px; margin: 0 10px;" alt="Great Seal of the United States" />
+    <img src="images/bald_eagle.png" style="width: 180px; height: 120px; margin: 0 10px;" alt="Bald Eagle" />
+  </p>
+  
+  <!-- Typing SVG Slogan -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002868&width=700&height=35&lines=%F0%9F%87%BA%F0%9F%87%B8In+God+We+Trust.+E+Pluribus+Unum!%F0%9F%87%BA%F0%9F%87%B8"/></a>
+  
+  <br>
+
+  <!-- Introduction Line -->
+  <h3>
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is <strong>Donald John Trump</strong>. 
+    <br>
+    I am a passionate and dedicated Patriot.
+  </h3>
+  
 </div>
 
-
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is **Donald John Trump**. I am a passionate and dedicated Patriot.
-
-<!-- GitHub Stats will need to be configured for the new user -->
-<a href="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-light-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-light-mode-only" /></a>
-<a href="https://raw.githubusercontent.com/USAGodMan/github-stats/master/generated/languages.svg#gh-light-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-light-mode-only" /></a>
-
-<a href="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-dark-mode-only" /></a>
-<a href="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-dark-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/languages.svg#gh-dark-mode-only" /></a>
+<!-- GitHub Stats Cards -->
+<!-- Note: Replace 'YOUR_USERNAME' with your actual GitHub username -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
