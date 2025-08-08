@@ -5,7 +5,7 @@
   <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/great_seal.png" style="width: 135px; height: 135px; vertical-align: middle;" alt="Great Seal of the United States" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/bald_eagle.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="Bald Eagle" />
 </p>
   
