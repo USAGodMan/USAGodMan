@@ -49,16 +49,18 @@ This is not just a political movement; it is a testament to the enduring power o
   </tr>
 </table>
 
-<!-- 第二部分: GitHub 奖杯 -->
+<!-- 第二部分: GitHub 奖杯 (修正版) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USAGodMan&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="USAGodMan's Trophies" />
+    <!-- 【核心修正】移除了 no-bg 和 no-frame，并使用 column=7 来控制布局 -->
+    <img src="https://github-profile-trophy.vercel.app/?username=USAGodMan&theme=radical&column=7&margin-w=15&margin-h=15" alt="USAGodMan's Trophies" />
   </a>
 </p>
 
-<!-- 第三部分: 个人主页访客计数器 -->
+<!-- 第三部分: 个人主页访客计数器 (修正版) -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/USAGodMan/count.svg" alt="Visitors Count" />
+  <!-- 【核心修正】更换为一个更可靠的访客计数服务 -->
+  <img src="https://komarev.com/ghpvc/?username=USAGodMan&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Visitors Count" />
 </p>
 
 ---
