@@ -1,74 +1,50 @@
 <div align="center">
   
-  <!-- Patriotic Symbols with Spacing -->
+  <!-- Themed Symbols -->
   <p align="center">
-  <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/great_seal.png" style="width: 135px; height: 135px; vertical-align: middle;" alt="Great Seal of the United States" />
-    
-  <img src="images/bald_eagle.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="Bald Eagle" />
-</p>
+    <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/trump_maga_hat.png" style="width: 135px; height: 135px; vertical-align: middle;" alt="Make America Great Again Hat" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/white_house.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="The White House" />
+  </p>
   
-  <!-- Typing SVG Slogan -->
+  <!-- Themed Typing SVG Slogan -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B22234&width=800&height=50&lines=In+God+We+Trust.;E+Pluribus+Unum.;From+Sea+to+Shining+Sea...;Land+of+the+Free,+Home+of+the+Brave!&center=true&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B22234&width=800&height=50&lines=Make+America+Great+Again!;We+Will+Put+America+First!;The+Best+Is+Yet+To+Come!&center=true&size=28" alt="Typing SVG" />
   </a>
   
   <br>
 
   <!-- Introduction Line -->
   <h3>
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is <strong>Donald John Trump</strong>. 
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is <strong>Donald John Trump</strong>.
     <br>
-    I am a passionate and dedicated Patriot.
+    I am the 45th President of the United States.
   </h3>
   
 </div>
 
 <!-- GitHub Stats Cards -->
-<!-- Note: The username 'USAGodMan' is now correctly configured. -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="USAGodMan's GitHub Stats" />
   </a>
 </p>
 
-### 🛠️ Languages and Tools / 语言与工具
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-  </a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="48" height="48"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
-  </a>
-</p>
-
 ---
 
-### 🤔 About Me / 关于我
+### 🏛️ My American Journey / 我的美国之旅
 
 <table>
 <tr>
 <td valign="top">
 
-**Standing on the shoulders of giants in this remarkable era, I will continue to innovate and forge ahead, firmly committed to the principles enshrined in our Constitution. I will align my personal growth with the prosperity of our nation. No matter the challenges ahead, I will face them with a strong sense of responsibility and purpose, striving relentlessly to form a more perfect Union. My skills will shine brightest in service to the people, my country, and the ideals of liberty!**
+From the battlefields of the **Revolutionary War** where the spirit of 1776 was forged, to the halls of **Independence Hall** where our Constitution was born, the story of America is one of resilience, innovation, and unwavering patriotism. We built the tallest skyscrapers, won two World Wars, put a man on the moon, and created the single greatest economic engine the world has ever seen.
 
-*Lead Liberty Engineer at [USA.gov](https://www.usa.gov/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">*
+My mission has always been to champion the forgotten men and women of this country, to rebuild our nation, and to restore the promise of the American Dream. We fought for fair trade, secured our borders, appointed conservative judges, and unleashed American energy. We put **America First**, because a nation must prioritize the well-being of its own citizens.
 
-*<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊*
+The challenges ahead are great, but the spirit of the American people is greater. We will not bend, we will not break, we will not yield. We will continue to fight for our values, our freedom, and our way of life. The best is yet to come!
 
 </td>
 </tr>
@@ -76,28 +52,34 @@
 
 ---
 
-### 📬 Get in Touch / 联系方式
+### 🛠️ My Toolbox for Building America / 我的工具箱
 
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/static/v1?label=%20&message=telegram&logo=telegram&logoColor=white&labelColor=%230088CC&color=%230088CC&style=for-the-badge" alt="Telegram"></a>
-  <a href="https://www.tiktok.com/@your_tiktok"><img src="https://img.shields.io/static/v1?label=%20&message=tiktok&logo=tiktok&logoColor=%23EE1D52&labelColor=%23010101&color=%23EE1D52&style=for-the-badge" alt="TikTok"></a>
-  <a href="https://www.instagram.com/your_instagram"><img src="https://img.shields.io/static/v1?label=%20&message=instagram&logo=instagram&logoColor=white&labelColor=%23E1306C&color=%23E1306C&style=for-the-badge" alt="Instagram"></a>
-  <a href="mailto:john.q.public@email.com"><img src="https://img.shields.io/static/v1?label=%20&message=gmail&logo=gmail&logoColor=white&labelColor=%23D93025&color=%23D93025&style=for-the-badge" alt="Gmail"></a>
-  <br>
-  Feel free to ask me anything at [Discussions](https://github.com/YOUR_USERNAME/YOUR_USERNAME/discussions/new/choose)!
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="48" height="48"/></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/></a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME" alt="Visitor Badge">
-</div>
+---
+
+### 📞 Connect with Me / 与我联系
+
+<p align="center">
+  <a href="https://truthsocial.com/@realDonaldTrump"><img src="https://img.shields.io/static/v1?label=%20&message=Truth+Social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE5LjYgMi40SDQuNEEyLjQgMi40IDAgMCAwIDIgNC44djE0LjRhMi40IDIuNCAwIDAgMCAyLjQgMi40aDE1LjJhMi40IDIuNCAwIDAgMCAyLjQtMi40VjQuOGEyLjQgMi40IDAgMCAwLTIuNC0yLjRabS0zLjYgMTMuMmgtMS44di00LjZoLTEuMnY0LjZoLTEuOHYtNy4yaDEuOHYxLjhoMS4ydi0xLjhoMS44djcuMlptLTYuNiAwSDguNnYtMS4yaC45di0yLjdoLS45di0xLjJoMS41Yy45IDAgMS41LjYgMS41IDEuN3YxLjVjMCAxLjItLjYgMS43LTEuNSAxLjdabS0xLjUtMi43aC45YzAgLS42LS4zLS45LS43LS45aC0uMnYxLjhaIi8+PC9zdmc+&logoColor=white&labelColor=%235A1919&color=%235A1919&style=for-the-badge" alt="Truth Social"></a>
+  <a href="https://www.donaldjtrump.com/"><img src="https://img.shields.io/static/v1?label=%20&message=Website&logo=googlechrome&logoColor=white&labelColor=%23002868&color=%23002868&style=for-the-badge" alt="Official Website"></a>
+  <a href="https://www.tiktok.com/@your_tiktok"><img src="https://img.shields.io/static/v1?label=%20&message=tiktok&logo=tiktok&logoColor=%23EE1D52&labelColor=%23010101&color=%23EE1D52&style=for-the-badge" alt="TikTok"></a>
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=USAGodMan" alt="Visitor Badge">
+</p>
 
 ---
 
-### ✨ My Inspiration / 灵感来源
+### 🇺🇸 Defining Moments in American History / 定义美国的历史时刻
 
 <div align="center">
-    <img src="images/Mount_Rushmore.jpg" style="width: 400px; height: 250px;" alt="Mount Rushmore"/>
-    <img src="images/Statue_of_Liberty.jpg" style="width: 400px; height: 250px;" alt="Statue of Liberty"/>
+    <img src="images/Declaration_of_Independence.jpg" style="width: 400px; height: 250px;" alt="Signing the Declaration of Independence"/>
+    <img src="images/Iwo_Jima_flag_raising.jpg" style="width: 400px; height: 250px;" alt="Raising the Flag on Iwo Jima"/>
 </div>
-
----
