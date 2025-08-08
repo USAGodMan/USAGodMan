@@ -22,13 +22,13 @@
 </div>
 
 <!-- GitHub Stats Cards -->
-<!-- Note: Replace 'YOUR_USERNAME' with your actual GitHub username -->
+<!-- Note: The username 'USAGodMan' is now correctly configured. -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="USAGodMan's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USAGodMan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="USAGodMan's Top Languages" />
   </a>
 </p>
 
