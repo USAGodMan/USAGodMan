@@ -87,5 +87,6 @@ This is not just a political movement; it is a testament to the enduring power o
     <img src="images/Ishiba_with_Trump.jpg" style="width: 400px; height: 250px;" alt="Meeting with Ishiba"/>
     <img src="images/Meeting_with_UNGA.jpg" style="width: 400px; height: 250px;" alt="Meeting with UNGA"/>
     <img src="images/Meeting_with_Taoiseach_Micheál_Martin.jpg" style="width: 400px; height: 250px;" alt="Meeting with Taoiseach Martin"/>
+    <img src="images/Women's_March_on_Washington.jpg" style="width: 400px; height: 250px;" alt="Women's March on Washington"/>
 </div>
 </details>
