@@ -124,10 +124,5 @@ The best is truly yet to come, and together, we will achieve it.
 
 ### 💬 **Join the Conversation** / 加入讨论
 
-<!-- 【核心】在这里为 YouTube 视频卡片留下占位符 -->
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
-
 **This week's question for all Patriots:**
 > *What is the single most important issue facing America today, and what is your bold solution?*
