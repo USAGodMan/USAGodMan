@@ -4,7 +4,7 @@
   <p align="center">
     <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/trump_maga_hat.png" style="width: 135px; height: 135px; vertical-align: middle;" alt="Make America Great Again Hat" />
+    <img src="images/trump_maga_hat.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="Make America Great Again Hat" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/white_house.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="The White House" />
   </p>
