@@ -33,19 +33,16 @@ This is not just a political movement; it is a testament to the enduring power o
 
 *These stats reflect my unwavering commitment and tireless work ethic for our nation.*
 
-<!-- 使用表格实现左右布局 (透明主题优化版) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <!-- 【核心修正】使用 transparent 主题，并移除颜色自定义 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="USAGodMan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=B22234&text_color=002868" alt="USAGodMan's GitHub Stats" />
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <!-- 【核心修正】使用 transparent 主题，并移除颜色自定义 -->
-        <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
+        <img title="Always Fighting!" alt="USAGodMan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=USAGodMan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=B22234&ring=002868&currStreakLabel=002868" />
       </a>
     </td>
   </tr>
