@@ -35,9 +35,9 @@ This is not just a political movement; it is a testament to the enduring power o
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=B22234&text_color=002868" alt="USAGodMan's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=USAGodMan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="USAGodMan's GitHub Stats" />
       </a>
     </td>
     <td align="center">
