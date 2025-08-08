@@ -8,6 +8,10 @@
   </a>
 </div>
 
+<audio src="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg" controls autoplay>
+    您的浏览器不支持 audio 标签。
+</audio>
+
 ---
 
 ### 🏛️ **A Message to the American People** / 致美国人民的信 / アメリカ国民への手紙 / 치미국 인민적 일봉신
