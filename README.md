@@ -101,15 +101,3 @@
 </div>
 
 ---
-
-### 📈 My Coding Activity / 编码活动
-
-<details>
-<summary>📊 Show My WakaTime Stats</summary>
-<br>
-<!-- WakaTime stats can be enabled later via GitHub Actions -->
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=USAGodMan&layout=compact"
-  alt="WakaTime Stats"
-/>
-</details>
