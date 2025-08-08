@@ -12,7 +12,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <!-- GitHub Stats will need to be configured for the new user -->
 <a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/overview.svg#gh-light-mode-only">
-<img align="right" width="50%" src="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/overview.svg#gh-light-mode-only" /></a>
+<img align="right" width="50%" src="https://raw.githubusercontent.com//github-stats/master/generated/overview.svg#gh-light-mode-only" /></a>
 <a href="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-light-mode-only">
 <img align="right" width="50%" src="https://raw.githubusercontent.com/YOUR_USERNAME/github-stats/master/generated/languages.svg#gh-light-mode-only" /></a>
 
