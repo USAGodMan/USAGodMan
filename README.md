@@ -109,17 +109,7 @@
 <br>
 <!-- WakaTime stats can be enabled later via GitHub Actions -->
 <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=USAGodMan&layout=compact"
   alt="WakaTime Stats"
 />
 </details>
-
----
-
-<!-- This section can be re-enabled once you set up the snake game action -->
-<!-- 
-<a href="dist/github-snake.svg#gh-light-mode-only">
-    <img src="dist/github-snake.svg#gh-light-mode-only"/></a>
-<a href="dist/github-snake-dark.svg#gh-dark-mode-only">
-    <img src="dist/github-snake-dark.svg#gh-dark-mode-only"/></a> 
--->
