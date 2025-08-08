@@ -30,6 +30,15 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
+### 📜 **My Core Principles** / 我的核心信念 / 私の核となる信念 / 내 핵심 신념
+
+*   **🇺🇸 America First (美国优先)**: Every decision, every policy, and every action must be judged by a simple test: does it make life better for American families? We must protect our borders, defend our sovereignty, and bring back our jobs.
+*   **🗽 Strength Through Peace (以实力求和平)**: A strong nation is a safe nation. We rebuilt our military not to start conflicts, but to prevent them. When America is strong, the world is a safer place.
+*   **⚖️ Constitutionalism (宪法主义)**: The foundation of our Republic is the Constitution. I am committed to appointing judges who interpret the Constitution as it is written, preserving our God-given liberties for generations to come.
+*   **💼 Economic Prosperity (经济繁荣)**: By cutting taxes, slashing regulations, and unleashing the power of American enterprise, we created the greatest economic boom in history. Prosperity is the key to national strength and individual happiness.
+
+---
+
 ### 📊 **My Record: By the Numbers** / 我的政绩：用数字说话 / 私の業績：数字が物語る / 내 업적: 숫자가 말해주는 것
 
 *These stats reflect my unwavering commitment and tireless work ethic for our nation.*
@@ -97,15 +106,6 @@ This is not just a political movement; it is a testament to the enduring power o
     <img src="images/Women's_March_on_Washington.jpg" style="width: 400px; height: 250px;" alt="Women's March on Washington"/>
 </div>
 </details>
-
----
-
-### 📜 **My Core Principles** / 我的核心信念 / 私の核となる信念 / 내 핵심 신념
-
-*   **🇺🇸 America First (美国优先)**: Every decision, every policy, and every action must be judged by a simple test: does it make life better for American families? We must protect our borders, defend our sovereignty, and bring back our jobs.
-*   **🗽 Strength Through Peace (以实力求和平)**: A strong nation is a safe nation. We rebuilt our military not to start conflicts, but to prevent them. When America is strong, the world is a safer place.
-*   **⚖️ Constitutionalism (宪法主义)**: The foundation of our Republic is the Constitution. I am committed to appointing judges who interpret the Constitution as it is written, preserving our God-given liberties for generations to come.
-*   **💼 Economic Prosperity (经济繁荣)**: By cutting taxes, slashing regulations, and unleashing the power of American enterprise, we created the greatest economic boom in history. Prosperity is the key to national strength and individual happiness.
 
 ---
 
