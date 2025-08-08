@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/trump_rally_banner.png" alt="Trump Rally Banner" width="800px" />
+  <img src="images/trump_rally_banner.png" alt="Trump Rally Banner" width="1012px" />
   <h1><strong>DONALD J. TRUMP</strong></h1>
   <img src="images/trump.png" alt="Trump Profile" width="400px" />
   <h3><strong>45th President of the United States of America</strong></h3>
@@ -109,7 +109,7 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
-### 🚀 **A Blueprint for the Future** / 未来蓝图
+### 🚀 **A Blueprint for the Future** / 未来蓝图 / 未来への青写真 / 미래를 위한 청사진
 
 The work of making America great is never truly finished. We have laid the foundation, but now we must build upon it. My plan for the future is clear:
 
@@ -122,7 +122,7 @@ The best is truly yet to come, and together, we will achieve it.
 
 ---
 
-### 💬 **Join the Conversation** / 加入讨论
+### 💬 **Join the Conversation** / 加入讨论 / 議論に参加する / 토론에 참여하세요
 
 <img src="images/Trump_Day_1_Executive_Order_Signing.jpg" style="width: 1012px;" alt="Trump_Day_1_Executive_Order_Signing"/>
 
