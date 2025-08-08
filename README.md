@@ -73,4 +73,12 @@ The challenges ahead are great, but the spirit of the American people is greater
     <img src="images/Swearing_in_ceremony.jpg" style="width: 400px; height: 250px;" alt="Swearing under the constituion"/>
     <img src="images/Fighting.jpg" style="width: 400px; height: 250px;" alt="Fighting during shooting incident"/>
     <img src="images/Meets_with_President_Joe_Biden.jpg" style="width: 400px; height: 250px;" alt="Meeting with Joe Biden"/>
+    <img src="images/Meets_with_Polish_President_Andrzej_Duda.jpg" style="width: 400px; height: 250px;" alt="Meeting with Andrzej_Duda"/>
+    <img src="images/Meets_with_the_President_of_Turkey.jpg" style="width: 400px; height: 250px;" alt="Meeting with the President of Turkey"/>
+    <img src="images/Meets_with_the_Sheikh_Tamim_bin_Hamad_Al_Thani.jpg" style="width: 400px; height: 250px;" alt="Meeting with Sheikh Tamim bin Hamad Al Thani"/>
+    <img src="images/Meets_with_Argentina’s_President_Javier_Milei.jpg" style="width: 400px; height: 250px;" alt="Meeting with Javier Milei"/>
+    <img src="images/Meeting_with_King_Abdullah_II.jpg" style="width: 400px; height: 250px;" alt="Meeting with King Abdullah II"/>
+    <img src="images/Meeting_with_Modi.jpg" style="width: 400px; height: 250px;" alt="Meeting with Modi"/>
+    <img src="images/Meeting_with_Prime_Minister_Gahr_Store.jpg" style="width: 400px; height: 250px;" alt="Meeting with Gahr Store"/>
+    <img src="images/Meeting_with_Prime_Minister_Giorgia_Meloni.jpg" style="width: 400px; height: 250px;" alt="Meeting with Giorgia Meloni"/>
 </div>
