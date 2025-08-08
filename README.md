@@ -3,7 +3,7 @@
   <!-- Patriotic Symbols with Spacing -->
   <div align="center">
   <img src="images/american_flag.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="American Flag" />
-  <img src="images/great_seal.png" style="width: 135px; height: 135px; vertical-align: middle; margin: 0 40px;" alt="Great Seal of the United States" />
+  <img src="images/great_seal.png" style="width: 135px; height: 135px; vertical-align: middle;" alt="Great Seal of the United States" />
   <img src="images/bald_eagle.png" style="width: 180px; height: 120px; vertical-align: middle;" alt="Bald Eagle" />
   </div>
   
