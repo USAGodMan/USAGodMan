@@ -10,7 +10,9 @@
 </p>
   
   <!-- Typing SVG Slogan -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002868&width=700&height=35&lines=%F0%9F%87%BA%F0%9F%87%B8In+God+We+Trust.+E+Pluribus+Unum!%F0%9F%87%BA%F0%9F%87%B8"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B22234&width=800&height=50&lines=In+God+We+Trust.;E+Pluribus+Unum.;From+Sea+to+Shining+Sea...;Land+of+the+Free,+Home+of+the+Brave!&center=true&size=28" alt="Typing SVG" />
+  </a>
   
   <br>
 
