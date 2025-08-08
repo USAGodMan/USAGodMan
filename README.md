@@ -51,6 +51,21 @@ This is not just a political movement; it is a testament to the enduring power o
 
 ---
 
+### 🏆 My Trophies & Activity / 我的荣誉与活动
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=USAGodMan&theme=radical&column=7&margin-w=15&margin-h=15" alt="USAGodMan's Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=USAGodMan&bg_color=0d1117&color=ffffff&line=002868&point=b22234&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+
 ### 📞 **Join the Movement** / 加入这场运动 / 運動に参加しよう / 운동에 참여하세요
 
 <p align="center">
