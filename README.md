@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/trump_rally_banner.png" alt="Trump Rally Banner" width="800px" />
   <h1><strong>DONALD J. TRUMP</strong></h1>
-  <img src="images/trump.png" alt="Trump Profile" width="800px" />
+  <img src="images/trump.png" alt="Trump Profile" width="400px" />
   <h3><strong>45th President of the United States of America</strong></h3>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B22234&width=800&height=50&lines=PROMISES+MADE,+PROMISES+KEPT;MAKE+AMERICA+GREAT+AGAIN!;THE+BEST+IS+YET+TO+COME!&center=true&size=28" alt="Typing SVG" />
